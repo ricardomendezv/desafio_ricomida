@@ -1,0 +1,77 @@
+body {
+    /* font-family: 'Roboto', sans-serif; */
+}
+
+/* font-family: 'Cabin', sans-serif;
+
+font-family: 'Lobster', cursive; */
+
+header {
+    background: #373A3C;
+    font-size: 1.33rem;
+}
+
+footer {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+    background: #373A3C;
+    color:white;
+}
+h1 {
+    font-family: 'Cabin', sans-serif;
+    /* font-size: 2.5rem; */
+    font-weight: 700;
+}
+h2 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 2rem;
+}
+h3 {
+    font-family: 'Cabin', sans-serif;
+    /* font-size: 1.5rem; */
+    font-weight: 700;
+}
+h4 {
+    font-family: 'Cabin', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+span {
+    font-family: 'Lobster', cursive;
+    font-size: 2rem;
+}
+article {
+    margin: 0;
+    padding: 0%;
+}
+.carousel-indicators {
+    position: absolute;
+    bottom: -50px;
+}
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #999;
+    background-color: rgba(70, 70, 70, 0.25);
+}
+.carousel-indicators .active {
+    background-color: #444;
+}
+.recetas h1{
+    color:#373A3C;
+}
+.card-body p{
+    font-size: 0.8rem;
+}
+.ricomida {
+    font-family: 'Lobster', cursive;
+    font-size: 3rem;
+}
+.sec-sub{
+    background: #DC3545;
+    color: white;
+}
+.dblclick{
+    color:red;
+}
